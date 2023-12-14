@@ -10,7 +10,7 @@
     		<artifactId>h2</artifactId>
 		</dependency>
 # Database Configuration
-Ispring.datasource.url = jdbc:h2:mem:riaradb
+spring.datasource.url = jdbc:h2:mem:riaradb
 spring.datasource.username = sa
 spring.datasource.password = sa
 spring.datasource.driver-class-name = org.h2.Driver
